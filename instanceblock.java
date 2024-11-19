@@ -31,8 +31,10 @@ class Main {
     }
 }
 
-Output: 
-Static Method called
-40 Instance block Called
-20 Constructor called
-Method called
+// Output: 
+// Static Method called
+// 40 Instance block Called
+// 20 Constructor called
+// Method called
+
+
